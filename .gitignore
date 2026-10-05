@@ -1,0 +1,19 @@
+# Скомпилированный бинарник
+/game
+/textGame
+*.exe
+
+# Файл сохранения игры (создаётся при запуске)
+save.json
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Результаты тестов и профилирования
+*.out
+*.test
+coverage.txt
